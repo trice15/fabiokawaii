@@ -1,2 +1,3 @@
 function app() { console.log('App rodando'); }
 // Parte 1 da feature 4
+// Parte 2 final da feature 4
